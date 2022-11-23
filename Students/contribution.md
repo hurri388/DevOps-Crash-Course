@@ -378,6 +378,7 @@ https://medium.com/@hurrim38/project-workflow-with-docker-understanding-the-prac
 https://medium.com/@hurrim38/introduction-to-podman-an-alternative-to-docker-4fb16777516d
 
 # Links to learning resources:
+
 1.	https://www.docker.com/
 2.	https://kubernetes.io/
 4. https://kyverno.io/docs/
